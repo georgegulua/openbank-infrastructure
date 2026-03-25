@@ -31,7 +31,7 @@ Completed as part of the AIS curriculum (RNCP Level 6) at GRETA CFA Aquitaine / 
 ### VPN SSL (remote access)
 
 - Stormshield SSL VPN client
-- TOTP-based MFA (SHA-512, 6 digits, 30 seconds)
+- TOTP-based MFA (SHA1, 6 digits, 30 seconds)
 - ZTNA pre-connection checks: domain machine, domain user, non-local-admin
 - Split tunneling — only `10.0.1.0/24` routed through the tunnel
 
